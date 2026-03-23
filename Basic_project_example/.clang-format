@@ -1,0 +1,5 @@
+---
+# 与 LLVM 风格接近；安装后执行: clang-format -i src/*.c include/*.h
+BasedOnStyle: LLVM
+IndentWidth: 4
+ColumnLimit: 100

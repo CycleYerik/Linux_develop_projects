@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../my_leetcode_and_note"
+		},
+		{
+			"path": "../my_develop_note"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
